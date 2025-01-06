@@ -1,0 +1,12 @@
+{
+  "configurations": [
+    {
+      "name": "Python 디버거: 현재 파일",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${cwd}/tossi/runtime.py",
+      "console": "integratedTerminal",
+      "justMyCode": false
+    }
+  ]
+}
